@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Aula 2/">
+    <Project Path="Ex001/M01A02D.csproj" Id="370dd330-fb7b-441e-8aa3-ddafc34bdc44" />
+    <Project Path="M01A02A/M01A02A.csproj" Id="eb217c63-191d-405f-aa3c-dd626a8b0b0c" />
+    <Project Path="M01A02B/M01A02B.csproj" Id="4267ff2d-13a7-4c00-afbe-22183e6469d6" />
+    <Project Path="M01A02C/M01A02C.csproj" Id="79bc650c-b358-40ad-987a-9743f95ff455" />
+    <Project Path="M01A02E/M01A02E.csproj" Id="10c4da9e-37d2-475b-a7fe-09f68b974bef" />
+  </Folder>
+  <Folder Name="/Aula 3/">
+    <Project Path="M01A03/M01A03.csproj" Id="2a6dc235-e715-4747-913c-bbb4a3a3d706" />
+  </Folder>
+</Solution>

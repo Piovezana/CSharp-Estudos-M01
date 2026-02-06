@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VictorPiovezana\\source\\repos\\AmbienteM01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6DC235-E715-4747-913C-BBB4A3A3D706}|M01A03\\M01A03.csproj|c:\\users\\victorpiovezana\\source\\repos\\ambientem01\\m01a03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6DC235-E715-4747-913C-BBB4A3A3D706}|M01A03\\M01A03.csproj|solutionrelative:m01a03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C4DA9E-37D2-475B-A7FE-09F68B974BEF}|M01A02E\\M01A02E.csproj|c:\\users\\victorpiovezana\\source\\repos\\ambientem01\\m01a02e\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C4DA9E-37D2-475B-A7FE-09F68B974BEF}|M01A02E\\M01A02E.csproj|solutionrelative:m01a02e\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370DD330-FB7B-441E-8AA3-DDAFC34BDC44}|Ex001\\Ex001.csproj|c:\\users\\victorpiovezana\\source\\repos\\ambientem01\\ex001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370DD330-FB7B-441E-8AA3-DDAFC34BDC44}|Ex001\\Ex001.csproj|solutionrelative:ex001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BC650C-B358-40AD-987A-9743F95FF455}|M01A02C\\M01A02C.csproj|C:\\Users\\VictorPiovezana\\source\\repos\\AmbienteM01\\m01a02c\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BC650C-B358-40AD-987A-9743F95FF455}|M01A02C\\M01A02C.csproj|solutionrelative:m01a02c\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4267FF2D-13A7-4C00-AFBE-22183E6469D6}|M01A02B\\M01A02B.csproj|C:\\Users\\VictorPiovezana\\source\\repos\\AmbienteM01\\m01a02b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4267FF2D-13A7-4C00-AFBE-22183E6469D6}|M01A02B\\M01A02B.csproj|solutionrelative:m01a02b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB217C63-191D-405F-AA3C-DD626A8B0B0C}|M01A02A\\M01A02A.csproj|C:\\Users\\VictorPiovezana\\source\\repos\\AmbienteM01\\m01a02a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB217C63-191D-405F-AA3C-DD626A8B0B0C}|M01A02A\\M01A02A.csproj|solutionrelative:m01a02a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VictorPiovezana\\source\\repos\\AmbienteM01\\M01A03\\Program.cs",
+              "RelativeDocumentMoniker": "M01A03\\Program.cs",
+              "ToolTip": "C:\\Users\\VictorPiovezana\\source\\repos\\AmbienteM01\\M01A03\\Program.cs",
+              "RelativeToolTip": "M01A03\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T14:06:53.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VictorPiovezana\\source\\repos\\AmbienteM01\\M01A02E\\Program.cs",
+              "RelativeDocumentMoniker": "M01A02E\\Program.cs",
+              "ToolTip": "C:\\Users\\VictorPiovezana\\source\\repos\\AmbienteM01\\M01A02E\\Program.cs",
+              "RelativeToolTip": "M01A02E\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T13:21:01.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VictorPiovezana\\source\\repos\\AmbienteM01\\Ex001\\Program.cs",
+              "RelativeDocumentMoniker": "Ex001\\Program.cs",
+              "ToolTip": "C:\\Users\\VictorPiovezana\\source\\repos\\AmbienteM01\\Ex001\\Program.cs",
+              "RelativeToolTip": "Ex001\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T19:34:50.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VictorPiovezana\\source\\repos\\AmbienteM01\\M01A02C\\Program.cs",
+              "RelativeDocumentMoniker": "M01A02C\\Program.cs",
+              "ToolTip": "C:\\Users\\VictorPiovezana\\source\\repos\\AmbienteM01\\M01A02C\\Program.cs",
+              "RelativeToolTip": "M01A02C\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T17:20:37.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VictorPiovezana\\source\\repos\\AmbienteM01\\M01A02B\\Program.cs",
+              "RelativeDocumentMoniker": "M01A02B\\Program.cs",
+              "ToolTip": "C:\\Users\\VictorPiovezana\\source\\repos\\AmbienteM01\\M01A02B\\Program.cs",
+              "RelativeToolTip": "M01A02B\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T17:01:06.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VictorPiovezana\\source\\repos\\AmbienteM01\\M01A02A\\Program.cs",
+              "RelativeDocumentMoniker": "M01A02A\\Program.cs",
+              "ToolTip": "C:\\Users\\VictorPiovezana\\source\\repos\\AmbienteM01\\M01A02A\\Program.cs",
+              "RelativeToolTip": "M01A02A\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T16:43:56.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

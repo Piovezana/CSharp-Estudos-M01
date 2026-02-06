@@ -1,0 +1,7 @@
+C:\Users\VictorPiovezana\source\repos\AmbienteM01\M01A02A\bin\Debug\M01A02A.exe.config
+C:\Users\VictorPiovezana\source\repos\AmbienteM01\M01A02A\bin\Debug\M01A02A.exe
+C:\Users\VictorPiovezana\source\repos\AmbienteM01\M01A02A\bin\Debug\M01A02A.pdb
+C:\Users\VictorPiovezana\source\repos\AmbienteM01\M01A02A\obj\Debug\M01A02A.csproj.AssemblyReference.cache
+C:\Users\VictorPiovezana\source\repos\AmbienteM01\M01A02A\obj\Debug\M01A02A.csproj.CoreCompileInputs.cache
+C:\Users\VictorPiovezana\source\repos\AmbienteM01\M01A02A\obj\Debug\M01A02A.exe
+C:\Users\VictorPiovezana\source\repos\AmbienteM01\M01A02A\obj\Debug\M01A02A.pdb
