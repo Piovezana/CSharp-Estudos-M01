@@ -1,0 +1,7 @@
+D:\Estudos C#\A04\Nova pasta\Modulo01\M01A04\bin\Debug\M01A04.exe.config
+D:\Estudos C#\A04\Nova pasta\Modulo01\M01A04\bin\Debug\M01A04.exe
+D:\Estudos C#\A04\Nova pasta\Modulo01\M01A04\bin\Debug\M01A04.pdb
+D:\Estudos C#\A04\Nova pasta\Modulo01\M01A04\obj\Debug\M01A04.csproj.AssemblyReference.cache
+D:\Estudos C#\A04\Nova pasta\Modulo01\M01A04\obj\Debug\M01A04.csproj.CoreCompileInputs.cache
+D:\Estudos C#\A04\Nova pasta\Modulo01\M01A04\obj\Debug\M01A04.exe
+D:\Estudos C#\A04\Nova pasta\Modulo01\M01A04\obj\Debug\M01A04.pdb
