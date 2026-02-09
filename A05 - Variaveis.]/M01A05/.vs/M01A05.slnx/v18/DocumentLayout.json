@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VictorPiovezana\\source\\repos\\M01A05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD88F19-D899-4391-828C-2B7E63A3A287}|M01A05b\\M01A05b.csproj|c:\\users\\victorpiovezana\\source\\repos\\m01a05\\m01a05b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD88F19-D899-4391-828C-2B7E63A3A287}|M01A05b\\M01A05b.csproj|solutionrelative:m01a05b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BC07FA-1A63-4687-BA8F-3D2FAC53297B}|M01A05\\M01A05.csproj|c:\\users\\victorpiovezana\\source\\repos\\m01a05\\m01a05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BC07FA-1A63-4687-BA8F-3D2FAC53297B}|M01A05\\M01A05.csproj|solutionrelative:m01a05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VictorPiovezana\\source\\repos\\M01A05\\M01A05b\\Program.cs",
+              "RelativeDocumentMoniker": "M01A05b\\Program.cs",
+              "ToolTip": "C:\\Users\\VictorPiovezana\\source\\repos\\M01A05\\M01A05b\\Program.cs",
+              "RelativeToolTip": "M01A05b\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T20:38:04.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VictorPiovezana\\source\\repos\\M01A05\\M01A05\\Program.cs",
+              "RelativeDocumentMoniker": "M01A05\\Program.cs",
+              "ToolTip": "C:\\Users\\VictorPiovezana\\source\\repos\\M01A05\\M01A05\\Program.cs",
+              "RelativeToolTip": "M01A05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T19:50:03.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
