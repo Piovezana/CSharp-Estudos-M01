@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VictorPiovezana\\Desktop\\Estudos\\CSharp-Estudos-M01\\A07 - Conversoes de tipos\\M01A07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17F7BAE3-FF8C-4942-B322-C96652F13661}|..\\M01A07b\\M01A07b.csproj|c:\\users\\victorpiovezana\\desktop\\estudos\\csharp-estudos-m01\\a07 - conversoes de tipos\\m01a07b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB967F2A-B27D-4274-863B-7A74CEDBE570}|M01A07.csproj|c:\\users\\victorpiovezana\\desktop\\estudos\\csharp-estudos-m01\\a07 - conversoes de tipos\\m01a07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB967F2A-B27D-4274-863B-7A74CEDBE570}|M01A07.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VictorPiovezana\\Desktop\\Estudos\\CSharp-Estudos-M01\\A07 - Conversoes de tipos\\M01A07b\\Program.cs",
+              "RelativeDocumentMoniker": "..\\M01A07b\\Program.cs",
+              "ToolTip": "C:\\Users\\VictorPiovezana\\Desktop\\Estudos\\CSharp-Estudos-M01\\A07 - Conversoes de tipos\\M01A07b\\Program.cs",
+              "RelativeToolTip": "..\\M01A07b\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T20:53:44.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VictorPiovezana\\Desktop\\Estudos\\CSharp-Estudos-M01\\A07 - Conversoes de tipos\\M01A07\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\VictorPiovezana\\Desktop\\Estudos\\CSharp-Estudos-M01\\A07 - Conversoes de tipos\\M01A07\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T20:53:22.891Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

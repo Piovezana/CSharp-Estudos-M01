@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="495b3ce7-d4c0-4788-8b97-1f900288605a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/.idea/.idea.AmbienteM01/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/.idea/.idea.AmbienteM01/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/.idea/.idea.AmbienteM01/.idea/projectSettingsUpdater.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/.idea/.idea.AmbienteM01/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/.idea/.idea.AmbienteM01/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/.vs/AmbienteM01.slnx/FileContentIndex/3d53981d-26d4-4ed2-8b34-617525ffc955.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/.vs/AmbienteM01.slnx/FileContentIndex/695a2f4d-df2d-4a8b-99fa-d0f4a5e175de.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/.vs/AmbienteM01.slnx/FileContentIndex/7d94c9fd-d2c2-4249-b323-867065cb41c4.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/.vs/AmbienteM01.slnx/FileContentIndex/c406f43f-1fe6-494b-ac31-f440e584680d.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/.vs/AmbienteM01.slnx/FileContentIndex/f71a4861-3eb2-417a-84b4-a236d2fa0e2f.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/.vs/AmbienteM01.slnx/v18/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/.vs/AmbienteM01.slnx/v18/DocumentLayout.backup.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/.vs/AmbienteM01.slnx/v18/DocumentLayout.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/AmbienteM01.slnx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/Ex001/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/Ex001/M01A02D.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/Ex001/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/Ex001/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/Ex001/bin/Debug/Ex001.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/Ex001/bin/Debug/Ex001.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/Ex001/bin/Debug/Ex001.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/Ex001/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/Ex001/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/Ex001/obj/Debug/Ex001.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/Ex001/obj/Debug/Ex001.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/Ex001/obj/Debug/Ex001.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/Ex001/obj/Debug/Ex001.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/Ex001/obj/Debug/Ex001.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/Ex001/obj/Debug/M01A02D.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/Ex001/obj/Debug/M01A02D.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/Ex001/obj/Debug/M01A02D.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/Ex001/obj/Release/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/Ex001/obj/Release/M01A02D.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02A/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02A/M01A02A.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02A/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02A/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02A/bin/Debug/M01A02A.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02A/bin/Debug/M01A02A.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02A/bin/Debug/M01A02A.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02A/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02A/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02A/obj/Debug/M01A02A.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02A/obj/Debug/M01A02A.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02A/obj/Debug/M01A02A.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02A/obj/Debug/M01A02A.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02A/obj/Debug/M01A02A.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02A/obj/Release/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02A/obj/Release/M01A02A.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02B/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02B/M01A02B.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02B/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02B/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02B/bin/Debug/M01A02B.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02B/bin/Debug/M01A02B.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02B/bin/Debug/M01A02B.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02B/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02B/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02B/obj/Debug/M01A02B.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02B/obj/Debug/M01A02B.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02B/obj/Debug/M01A02B.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02B/obj/Debug/M01A02B.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02B/obj/Debug/M01A02B.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02B/obj/Release/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02B/obj/Release/M01A02B.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02C/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02C/M01A02C.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02C/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02C/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02C/bin/Debug/M01A02C.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02C/bin/Debug/M01A02C.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02C/bin/Debug/M01A02C.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02C/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02C/obj/Debug/DesignTimeResolveAssemblyReferences.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02C/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02C/obj/Debug/M01A02C.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02C/obj/Debug/M01A02C.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02C/obj/Debug/M01A02C.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02C/obj/Debug/M01A02C.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02C/obj/Debug/M01A02C.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02C/obj/Release/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02C/obj/Release/M01A02C.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02E/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02E/M01A02E.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02E/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02E/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02E/bin/Debug/M01A02E.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02E/bin/Debug/M01A02E.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02E/bin/Debug/M01A02E.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02E/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02E/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02E/obj/Debug/M01A02E.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02E/obj/Debug/M01A02E.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02E/obj/Debug/M01A02E.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02E/obj/Debug/M01A02E.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02E/obj/Debug/M01A02E.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02E/obj/Release/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A02E/obj/Release/M01A02E.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A03/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A03/M01A03.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A03/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A03/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A03/bin/Debug/M01A03.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A03/bin/Debug/M01A03.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A03/bin/Debug/M01A03.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A03/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A03/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A03/obj/Debug/M01A03.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A03/obj/Debug/M01A03.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A03/obj/Debug/M01A03.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A03/obj/Debug/M01A03.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A03/obj/Debug/M01A03.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A03/obj/Release/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/M01A03/obj/Release/M01A03.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/T1/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/T1/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/T1/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/T1/T1.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/T1/bin/Debug/T1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/T1/bin/Debug/T1.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/T1/bin/Debug/T1.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/T1/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/T1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/T1/obj/Debug/T1.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/T1/obj/Debug/T1.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/T1/obj/Debug/T1.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/T1/obj/Debug/T1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/T1/obj/Debug/T1.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/T1/obj/Release/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/T1/obj/Release/T1.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WindowsFormsApp1/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WindowsFormsApp1/Form1.Designer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WindowsFormsApp1/Form1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WindowsFormsApp1/Form1.resx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WindowsFormsApp1/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WindowsFormsApp1/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WindowsFormsApp1/Properties/Resources.Designer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WindowsFormsApp1/Properties/Resources.resx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WindowsFormsApp1/Properties/Settings.Designer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WindowsFormsApp1/Properties/Settings.settings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WindowsFormsApp1/WindowsFormsApp1.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WindowsFormsApp1/bin/Debug/WindowsFormsApp1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WindowsFormsApp1/bin/Debug/WindowsFormsApp1.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WindowsFormsApp1/bin/Debug/WindowsFormsApp1.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WindowsFormsApp1/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WindowsFormsApp1/obj/Debug/DesignTimeResolveAssemblyReferences.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WindowsFormsApp1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WindowsFormsApp1/obj/Debug/WindowsFormsApp1.Form1.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WindowsFormsApp1/obj/Debug/WindowsFormsApp1.Properties.Resources.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WindowsFormsApp1/obj/Debug/WindowsFormsApp1.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WindowsFormsApp1/obj/Debug/WindowsFormsApp1.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WindowsFormsApp1/obj/Debug/WindowsFormsApp1.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WindowsFormsApp1/obj/Debug/WindowsFormsApp1.csproj.GenerateResource.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WindowsFormsApp1/obj/Debug/WindowsFormsApp1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WindowsFormsApp1/obj/Debug/WindowsFormsApp1.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WindowsFormsApp1/obj/Release/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WindowsFormsApp1/obj/Release/WindowsFormsApp1.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WpfApp1/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WpfApp1/App.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WpfApp1/App.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WpfApp1/MainWindow.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WpfApp1/MainWindow.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WpfApp1/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WpfApp1/Properties/Resources.Designer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WpfApp1/Properties/Resources.resx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WpfApp1/Properties/Settings.Designer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WpfApp1/Properties/Settings.settings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WpfApp1/WpfApp1.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WpfApp1/bin/Debug/WpfApp1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WpfApp1/bin/Debug/WpfApp1.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WpfApp1/bin/Debug/WpfApp1.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WpfApp1/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WpfApp1/obj/Debug/App.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WpfApp1/obj/Debug/App.g.i.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WpfApp1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WpfApp1/obj/Debug/MainWindow.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WpfApp1/obj/Debug/MainWindow.g.i.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WpfApp1/obj/Debug/TempPE/Properties.Resources.Designer.cs.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WpfApp1/obj/Debug/WpfApp1.Properties.Resources.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WpfApp1/obj/Debug/WpfApp1.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WpfApp1/obj/Debug/WpfApp1.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WpfApp1/obj/Debug/WpfApp1.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WpfApp1/obj/Debug/WpfApp1.csproj.GenerateResource.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WpfApp1/obj/Debug/WpfApp1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WpfApp1/obj/Debug/WpfApp1.g.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WpfApp1/obj/Debug/WpfApp1.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WpfApp1/obj/Debug/WpfApp1_MarkupCompile.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WpfApp1/obj/Debug/WpfApp1_MarkupCompile.i.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WpfApp1/obj/Debug/WpfApp1_MarkupCompile.i.lref" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WpfApp1/obj/Debug/WpfApp1_MarkupCompile.lref" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WpfApp1/obj/Release/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WpfApp1/obj/Release/App.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WpfApp1/obj/Release/MainWindow.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WpfApp1/obj/Release/WpfApp1.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WpfApp1/obj/Release/WpfApp1_MarkupCompile.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estudos avulsos/WpfApp1/obj/Release/WpfApp1_MarkupCompile.lref" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello World - CSharp/ConsoleHW/.idea/.idea.ConsoleHW/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello World - CSharp/ConsoleHW/.idea/.idea.ConsoleHW/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello World - CSharp/ConsoleHW/.idea/.idea.ConsoleHW/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello World - CSharp/ConsoleHW/ConsoleHW.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello World - CSharp/ConsoleHW/HW.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello World - CSharp/ConsoleHW/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello World - CSharp/ConsoleHW/bin/Debug/net10.0/HW" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello World - CSharp/ConsoleHW/bin/Debug/net10.0/HW.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello World - CSharp/ConsoleHW/bin/Debug/net10.0/HW.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello World - CSharp/ConsoleHW/bin/Debug/net10.0/HW.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello World - CSharp/ConsoleHW/bin/Debug/net10.0/HW.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello World - CSharp/ConsoleHW/obj/Debug/net10.0/.NETCoreApp,Version=v10.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello World - CSharp/ConsoleHW/obj/Debug/net10.0/HW.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello World - CSharp/ConsoleHW/obj/Debug/net10.0/HW.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello World - CSharp/ConsoleHW/obj/Debug/net10.0/HW.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello World - CSharp/ConsoleHW/obj/Debug/net10.0/HW.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello World - CSharp/ConsoleHW/obj/Debug/net10.0/HW.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello World - CSharp/ConsoleHW/obj/Debug/net10.0/HW.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello World - CSharp/ConsoleHW/obj/Debug/net10.0/HW.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello World - CSharp/ConsoleHW/obj/Debug/net10.0/HW.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello World - CSharp/ConsoleHW/obj/Debug/net10.0/HW.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello World - CSharp/ConsoleHW/obj/Debug/net10.0/HW.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello World - CSharp/ConsoleHW/obj/Debug/net10.0/HW.sourcelink.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello World - CSharp/ConsoleHW/obj/Debug/net10.0/apphost" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello World - CSharp/ConsoleHW/obj/Debug/net10.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello World - CSharp/ConsoleHW/obj/Debug/net10.0/ref/HW.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello World - CSharp/ConsoleHW/obj/Debug/net10.0/refint/HW.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello World - CSharp/ConsoleHW/obj/HW.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello World - CSharp/ConsoleHW/obj/HW.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello World - CSharp/ConsoleHW/obj/HW.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello World - CSharp/ConsoleHW/obj/Release/net10.0/.NETCoreApp,Version=v10.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello World - CSharp/ConsoleHW/obj/Release/net10.0/HW.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello World - CSharp/ConsoleHW/obj/Release/net10.0/HW.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello World - CSharp/ConsoleHW/obj/Release/net10.0/HW.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello World - CSharp/ConsoleHW/obj/Release/net10.0/HW.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello World - CSharp/ConsoleHW/obj/Release/net10.0/HW.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello World - CSharp/ConsoleHW/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello World - CSharp/ConsoleHW/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello World - CSharp/ConsoleHW/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello World - CSharp/ConsoleHW/obj/rider.project.model.nuget.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello World - CSharp/ConsoleHW/obj/rider.project.restore.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M01A04/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M01A04/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M01A04/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M01A04/.vs/M01A04/FileContentIndex/3fe9a504-b027-484d-831d-9b360e4131b2.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M01A04/.vs/M01A04/v18/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M01A04/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M01A04/M01A04.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M01A04/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M01A04/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M01A04/bin/Debug/M01A04.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M01A04/bin/Debug/M01A04.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M01A04/bin/Debug/M01A04.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M01A04/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M01A04/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M01A04/obj/Debug/M01A04.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M01A04/obj/Debug/M01A04.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M01A04/obj/Debug/M01A04.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M01A04/obj/Debug/M01A04.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M01A04/obj/Debug/M01A04.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M01A04/obj/Release/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M01A04/obj/Release/M01A04.csproj.AssemblyReference.cache" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="39UgKxlvdFpptOaf7Qn5UT80mc1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="495b3ce7-d4c0-4788-8b97-1f900288605a" name="Changes" comment="" />
+      <created>1770756005134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770756005134</updated>
+      <workItem from="1770756006787" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

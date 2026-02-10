@@ -1,0 +1,15 @@
+C:\Users\VictorPiovezana\Desktop\Estudos\CSharp-Estudos-M01\A07 - Conversoes de Tipos\M01A07\bin\Debug\net10.0\M01A07.exe
+C:\Users\VictorPiovezana\Desktop\Estudos\CSharp-Estudos-M01\A07 - Conversoes de Tipos\M01A07\bin\Debug\net10.0\M01A07.deps.json
+C:\Users\VictorPiovezana\Desktop\Estudos\CSharp-Estudos-M01\A07 - Conversoes de Tipos\M01A07\bin\Debug\net10.0\M01A07.runtimeconfig.json
+C:\Users\VictorPiovezana\Desktop\Estudos\CSharp-Estudos-M01\A07 - Conversoes de Tipos\M01A07\bin\Debug\net10.0\M01A07.dll
+C:\Users\VictorPiovezana\Desktop\Estudos\CSharp-Estudos-M01\A07 - Conversoes de Tipos\M01A07\bin\Debug\net10.0\M01A07.pdb
+C:\Users\VictorPiovezana\Desktop\Estudos\CSharp-Estudos-M01\A07 - Conversoes de Tipos\M01A07\obj\Debug\net10.0\M01A07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VictorPiovezana\Desktop\Estudos\CSharp-Estudos-M01\A07 - Conversoes de Tipos\M01A07\obj\Debug\net10.0\M01A07.AssemblyInfoInputs.cache
+C:\Users\VictorPiovezana\Desktop\Estudos\CSharp-Estudos-M01\A07 - Conversoes de Tipos\M01A07\obj\Debug\net10.0\M01A07.AssemblyInfo.cs
+C:\Users\VictorPiovezana\Desktop\Estudos\CSharp-Estudos-M01\A07 - Conversoes de Tipos\M01A07\obj\Debug\net10.0\M01A07.csproj.CoreCompileInputs.cache
+C:\Users\VictorPiovezana\Desktop\Estudos\CSharp-Estudos-M01\A07 - Conversoes de Tipos\M01A07\obj\Debug\net10.0\M01A07.sourcelink.json
+C:\Users\VictorPiovezana\Desktop\Estudos\CSharp-Estudos-M01\A07 - Conversoes de Tipos\M01A07\obj\Debug\net10.0\M01A07.dll
+C:\Users\VictorPiovezana\Desktop\Estudos\CSharp-Estudos-M01\A07 - Conversoes de Tipos\M01A07\obj\Debug\net10.0\refint\M01A07.dll
+C:\Users\VictorPiovezana\Desktop\Estudos\CSharp-Estudos-M01\A07 - Conversoes de Tipos\M01A07\obj\Debug\net10.0\M01A07.pdb
+C:\Users\VictorPiovezana\Desktop\Estudos\CSharp-Estudos-M01\A07 - Conversoes de Tipos\M01A07\obj\Debug\net10.0\M01A07.genruntimeconfig.cache
+C:\Users\VictorPiovezana\Desktop\Estudos\CSharp-Estudos-M01\A07 - Conversoes de Tipos\M01A07\obj\Debug\net10.0\ref\M01A07.dll
