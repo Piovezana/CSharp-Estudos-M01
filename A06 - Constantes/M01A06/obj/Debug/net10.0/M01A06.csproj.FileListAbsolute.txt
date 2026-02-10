@@ -1,0 +1,15 @@
+C:\Users\VictorPiovezana\Desktop\Estudos\CSharp-Estudos-M01\A06 - Constantes\M01A06\bin\Debug\net10.0\M01A06.exe
+C:\Users\VictorPiovezana\Desktop\Estudos\CSharp-Estudos-M01\A06 - Constantes\M01A06\bin\Debug\net10.0\M01A06.deps.json
+C:\Users\VictorPiovezana\Desktop\Estudos\CSharp-Estudos-M01\A06 - Constantes\M01A06\bin\Debug\net10.0\M01A06.runtimeconfig.json
+C:\Users\VictorPiovezana\Desktop\Estudos\CSharp-Estudos-M01\A06 - Constantes\M01A06\bin\Debug\net10.0\M01A06.dll
+C:\Users\VictorPiovezana\Desktop\Estudos\CSharp-Estudos-M01\A06 - Constantes\M01A06\bin\Debug\net10.0\M01A06.pdb
+C:\Users\VictorPiovezana\Desktop\Estudos\CSharp-Estudos-M01\A06 - Constantes\M01A06\obj\Debug\net10.0\M01A06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VictorPiovezana\Desktop\Estudos\CSharp-Estudos-M01\A06 - Constantes\M01A06\obj\Debug\net10.0\M01A06.AssemblyInfoInputs.cache
+C:\Users\VictorPiovezana\Desktop\Estudos\CSharp-Estudos-M01\A06 - Constantes\M01A06\obj\Debug\net10.0\M01A06.AssemblyInfo.cs
+C:\Users\VictorPiovezana\Desktop\Estudos\CSharp-Estudos-M01\A06 - Constantes\M01A06\obj\Debug\net10.0\M01A06.csproj.CoreCompileInputs.cache
+C:\Users\VictorPiovezana\Desktop\Estudos\CSharp-Estudos-M01\A06 - Constantes\M01A06\obj\Debug\net10.0\M01A06.sourcelink.json
+C:\Users\VictorPiovezana\Desktop\Estudos\CSharp-Estudos-M01\A06 - Constantes\M01A06\obj\Debug\net10.0\M01A06.dll
+C:\Users\VictorPiovezana\Desktop\Estudos\CSharp-Estudos-M01\A06 - Constantes\M01A06\obj\Debug\net10.0\refint\M01A06.dll
+C:\Users\VictorPiovezana\Desktop\Estudos\CSharp-Estudos-M01\A06 - Constantes\M01A06\obj\Debug\net10.0\M01A06.pdb
+C:\Users\VictorPiovezana\Desktop\Estudos\CSharp-Estudos-M01\A06 - Constantes\M01A06\obj\Debug\net10.0\M01A06.genruntimeconfig.cache
+C:\Users\VictorPiovezana\Desktop\Estudos\CSharp-Estudos-M01\A06 - Constantes\M01A06\obj\Debug\net10.0\ref\M01A06.dll
