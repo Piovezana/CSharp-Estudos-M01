@@ -1,0 +1,7 @@
+D:\Estudos C#\CSharp-Estudos-M01\A07 - Conversoes de tipos\M01A07b\obj\Debug\M01A07b.csproj.AssemblyReference.cache
+D:\Estudos C#\CSharp-Estudos-M01\A07 - Conversoes de tipos\M01A07b\obj\Debug\M01A07b.csproj.CoreCompileInputs.cache
+D:\Estudos C#\CSharp-Estudos-M01\A07 - Conversoes de tipos\M01A07b\bin\Debug\M01A07b.exe.config
+D:\Estudos C#\CSharp-Estudos-M01\A07 - Conversoes de tipos\M01A07b\bin\Debug\M01A07b.exe
+D:\Estudos C#\CSharp-Estudos-M01\A07 - Conversoes de tipos\M01A07b\bin\Debug\M01A07b.pdb
+D:\Estudos C#\CSharp-Estudos-M01\A07 - Conversoes de tipos\M01A07b\obj\Debug\M01A07b.exe
+D:\Estudos C#\CSharp-Estudos-M01\A07 - Conversoes de tipos\M01A07b\obj\Debug\M01A07b.pdb
