@@ -1,0 +1,7 @@
+C:\Users\victor.piovezana\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\Área de Trabalho\Estudos\CSharp-Estudos-M01\A08 - Entrada de Dados\M01A08b\bin\Debug\M01A08b.exe.config
+C:\Users\victor.piovezana\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\Área de Trabalho\Estudos\CSharp-Estudos-M01\A08 - Entrada de Dados\M01A08b\bin\Debug\M01A08b.exe
+C:\Users\victor.piovezana\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\Área de Trabalho\Estudos\CSharp-Estudos-M01\A08 - Entrada de Dados\M01A08b\bin\Debug\M01A08b.pdb
+C:\Users\victor.piovezana\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\Área de Trabalho\Estudos\CSharp-Estudos-M01\A08 - Entrada de Dados\M01A08b\obj\Debug\M01A08b.csproj.AssemblyReference.cache
+C:\Users\victor.piovezana\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\Área de Trabalho\Estudos\CSharp-Estudos-M01\A08 - Entrada de Dados\M01A08b\obj\Debug\M01A08b.csproj.CoreCompileInputs.cache
+C:\Users\victor.piovezana\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\Área de Trabalho\Estudos\CSharp-Estudos-M01\A08 - Entrada de Dados\M01A08b\obj\Debug\M01A08b.exe
+C:\Users\victor.piovezana\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\Área de Trabalho\Estudos\CSharp-Estudos-M01\A08 - Entrada de Dados\M01A08b\obj\Debug\M01A08b.pdb
