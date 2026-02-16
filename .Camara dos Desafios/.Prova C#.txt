@@ -1,0 +1,224 @@
+📝 PROVA PRÁTICA – C# FUNDAMENTOS
+
+Regras da prova:
+
+Não usar Google
+
+Não copiar código antigo
+
+Fazer tudo do zero
+
+Organizar bem o código
+
+Mostrar mensagens claras no Console
+
+🧠 PARTE 1 – Questões Objetivas (programação)
+1️⃣ Sistema de cálculo completo
+
+Peça ao usuário:
+
+Dois números
+
+A operação desejada (+, -, *, /)
+
+O sistema deve:
+
+Mostrar o resultado correto
+
+Tratar divisão por zero
+
+Exemplo:
+
+Digite o primeiro número: 10
+Digite o segundo número: 5
+Digite a operação: *
+
+Resultado: 50
+
+2️⃣ Sistema de média escolar
+
+Peça:
+
+Nome do aluno
+
+3 notas
+
+Calcule a média e mostre:
+
+Regras:
+
+Média >= 7 → Aprovado
+
+Média >= 5 e < 7 → Recuperação
+
+Média < 5 → Reprovado
+
+Exemplo:
+
+Aluno: João
+Média: 6
+Situação: Recuperação
+
+3️⃣ Sistema de caixa
+
+Peça:
+
+Valor do produto
+
+Valor pago
+
+Regras:
+
+Se pago < produto → "Valor insuficiente"
+
+Se pago == produto → "Pagamento exato"
+
+Se pago > produto → mostrar troco
+
+4️⃣ Conversor completo
+
+Peça um número inteiro e mostre:
+
+Dobro
+
+Triplo
+
+Metade
+
+Se é par ou ímpar
+
+Se é positivo ou negativo
+
+5️⃣ Sistema de salário
+
+Peça:
+
+Valor por hora
+
+Horas trabalhadas
+
+Calcule:
+
+Salário bruto
+
+Desconto de 10%
+
+Salário final
+
+🧩 PARTE 2 – Desafios Extras (valem mais pontos)
+6️⃣ Simulador de banco
+
+Peça:
+
+Saldo inicial
+
+Valor de saque
+
+Regras:
+
+Se saque > saldo → "Saldo insuficiente"
+
+Senão, mostrar saldo restante
+
+7️⃣ Sistema de idade
+
+Peça idade em anos e mostre:
+
+Meses
+
+Dias
+
+Horas
+
+Use constantes.
+
+8️⃣ Sistema de desconto inteligente
+
+Peça:
+
+Valor da compra
+
+Regras:
+
+Se valor >= 500 → 15% desconto
+
+Se valor >= 200 → 10% desconto
+
+Senão → 5% desconto
+
+Mostrar valor final.
+
+🚀 PROJETO FINAL – “Mini Sistema Comercial”
+
+Agora vamos unir tudo.
+
+🎯 PROJETO: SISTEMA DE LOJA SIMPLES
+
+O programa deve fazer:
+
+🔹 1 – Cadastro do cliente
+
+Pedir:
+
+Nome
+
+Idade
+
+Se idade < 18:
+
+Cliente menor de idade
+
+🔹 2 – Compra
+
+Pedir:
+
+Nome do produto
+
+Valor do produto
+
+Quantidade
+
+Calcular:
+
+Total da compra
+
+🔹 3 – Aplicar desconto
+
+Regras:
+
+Total >= 1000 → 10%
+
+Total >= 500 → 5%
+
+Senão → sem desconto
+
+🔹 4 – Pagamento
+
+Pedir:
+
+Valor pago
+
+Regras:
+
+Se menor → mostrar quanto falta
+
+Se maior → mostrar troco
+
+Se igual → pagamento confirmado
+
+🔹 5 – Exibir resumo final
+
+Exemplo:
+
+======= RESUMO DA COMPRA =======
+
+Cliente: João
+Produto: Teclado
+Quantidade: 2
+Total sem desconto: 600
+Desconto aplicado: 5%
+Total final: 570
+Valor pago: 600
+Troco: 30
+
+Compra finalizada com sucesso!

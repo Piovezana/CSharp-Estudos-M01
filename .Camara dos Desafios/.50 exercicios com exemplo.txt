@@ -1,0 +1,557 @@
+1️⃣ Saudação personalizada
+
+Peça ao usuário:
+
+Nome
+
+Idade
+
+Mostre:
+
+Olá João, você tem 25 anos!
+
+2️⃣ Soma simples
+
+Peça ao usuário:
+
+Primeiro número
+
+Segundo número
+
+Mostre:
+
+Soma: 15
+
+3️⃣ Subtração
+
+Peça ao usuário:
+
+Dois números
+
+Mostre:
+
+Resultado: 5
+
+4️⃣ Multiplicação
+
+Peça ao usuário:
+
+Dois números
+
+Mostre:
+
+Resultado: 50
+
+5️⃣ Divisão
+
+Peça ao usuário:
+
+Dois números
+
+Mostre:
+
+Resultado: 2
+
+6️⃣ Antecessor e sucessor
+
+Peça ao usuário:
+
+Um número
+
+Mostre:
+
+Antecessor: 9
+Sucessor: 11
+
+7️⃣ Dobro e triplo
+
+Peça ao usuário:
+
+Um número
+
+Mostre:
+
+Dobro: 8
+Triplo: 12
+
+8️⃣ Metade de um número
+
+Peça ao usuário:
+
+Um número
+
+Mostre:
+
+Metade: 5
+
+9️⃣ Metros para centímetros
+
+Peça ao usuário:
+
+Valor em metros
+
+Mostre:
+
+200 centímetros
+
+🔟 Idade em dias
+
+Peça ao usuário:
+
+Idade em anos
+
+Mostre:
+
+7300 dias de vida
+
+🟡 NÍVEL 2 – PORCENTAGEM E CÁLCULOS
+
+====================================
+
+1️⃣1️⃣ Desconto de produto
+
+Peça ao usuário:
+
+Valor do produto
+
+Porcentagem de desconto
+
+Mostre:
+
+Valor final: 90
+
+1️⃣2️⃣ Acréscimo de porcentagem
+
+Peça ao usuário:
+
+Valor
+
+Percentual de aumento
+
+Mostre:
+
+Novo valor: 230
+
+1️⃣3️⃣ Área do círculo
+
+Peça ao usuário:
+
+Raio
+
+Mostre:
+
+Área: 28.27
+
+1️⃣4️⃣ Perímetro do retângulo
+
+Peça ao usuário:
+
+Base
+
+Altura
+
+Mostre:
+
+Perímetro: 18
+
+1️⃣5️⃣ Área do triângulo
+
+Peça ao usuário:
+
+Base
+
+Altura
+
+Mostre:
+
+Área: 12
+
+1️⃣6️⃣ Salário mensal
+
+Peça ao usuário:
+
+Valor por hora
+
+Horas trabalhadas
+
+Mostre:
+
+Salário: 3200
+
+1️⃣7️⃣ Comissão de vendedor
+
+Peça ao usuário:
+
+Valor de vendas
+
+Mostre:
+
+Comissão: 500
+
+1️⃣8️⃣ Juros simples
+
+Peça ao usuário:
+
+Valor inicial
+
+Taxa
+
+Tempo
+
+Mostre:
+
+Juros: 200
+
+1️⃣9️⃣ Conversão Celsius → Fahrenheit
+
+Peça ao usuário:
+
+Temperatura em Celsius
+
+Mostre:
+
+77°F
+
+2️⃣0️⃣ Fahrenheit → Celsius
+
+Peça ao usuário:
+
+Temperatura em Fahrenheit
+
+Mostre:
+
+25°C
+
+🔵 NÍVEL 3 – CONDICIONAIS (if/else)
+
+====================================
+
+2️⃣1️⃣ Número par ou ímpar
+
+Peça ao usuário:
+
+Um número
+
+Mostre:
+
+Número ímpar
+
+2️⃣2️⃣ Número positivo ou negativo
+
+Peça ao usuário:
+
+Um número
+
+Mostre:
+
+Número negativo
+
+2️⃣3️⃣ Maior entre dois números
+
+Peça ao usuário:
+
+Dois números
+
+Mostre:
+
+20 é o maior número
+
+2️⃣4️⃣ Maior entre três números
+
+Peça ao usuário:
+
+Três números
+
+Mostre:
+
+9 é o maior número
+
+2️⃣5️⃣ Média escolar
+
+Peça ao usuário:
+
+Três notas
+
+Mostre:
+
+Média: 7
+Aprovado
+
+2️⃣6️⃣ Pode votar?
+
+Peça ao usuário:
+
+Idade
+
+Mostre:
+
+Pode votar
+
+2️⃣7️⃣ Pode dirigir?
+
+Peça ao usuário:
+
+Idade
+
+Mostre:
+
+Não pode dirigir
+
+2️⃣8️⃣ Verificar senha
+
+Peça ao usuário:
+
+Senha
+
+Mostre:
+
+Senha correta
+
+2️⃣9️⃣ Número entre 10 e 50
+
+Peça ao usuário:
+
+Um número
+
+Mostre:
+
+Está dentro do intervalo
+
+3️⃣0️⃣ Múltiplo de 5
+
+Peça ao usuário:
+
+Um número
+
+Mostre:
+
+É múltiplo de 5
+
+🟣 NÍVEL 4 – DESAFIOS COMPOSTOS
+
+=================================
+
+3️⃣1️⃣ Caixa simples
+
+Peça ao usuário:
+
+Valor do produto
+
+Valor pago
+
+Mostre:
+
+Troco: 50
+
+3️⃣2️⃣ Parcelamento
+
+Peça ao usuário:
+
+Valor total
+
+Número de parcelas
+
+Mostre:
+
+Cada parcela: 250
+
+3️⃣3️⃣ Conta restaurante (+10%)
+
+Peça ao usuário:
+
+Valor da conta
+
+Mostre:
+
+Total com taxa: 220
+
+3️⃣4️⃣ Consumo de combustível
+
+Peça ao usuário:
+
+Distância percorrida
+
+Litros gastos
+
+Mostre:
+
+Consumo: 10 km/l
+
+3️⃣5️⃣ Km para milhas
+
+Peça ao usuário:
+
+Quilômetros
+
+Mostre:
+
+6.21 milhas
+
+3️⃣6️⃣ Kg para gramas
+
+Peça ao usuário:
+
+Quilos
+
+Mostre:
+
+2000 gramas
+
+3️⃣7️⃣ Horas para minutos
+
+Peça ao usuário:
+
+Horas
+
+Mostre:
+
+120 minutos
+
+3️⃣8️⃣ Dias para horas
+
+Peça ao usuário:
+
+Dias
+
+Mostre:
+
+72 horas
+
+3️⃣9️⃣ Idade futura
+
+Peça ao usuário:
+
+Idade atual
+
+Quantos anos deseja avançar
+
+Mostre:
+
+Você terá 30 anos
+
+4️⃣0️⃣ Aumento salarial 5%
+
+Peça ao usuário:
+
+Salário atual
+
+Mostre:
+
+Novo salário: 2100
+
+🔴 NÍVEL 5 – MINI SISTEMAS
+
+============================
+
+4️⃣1️⃣ Cadastro simples
+
+Peça ao usuário:
+
+Nome
+
+Idade
+
+Altura
+
+Mostre:
+
+Cadastro realizado com sucesso
+
+4️⃣2️⃣ Comparar idades
+
+Peça ao usuário:
+
+Duas idades
+
+Mostre:
+
+25 é mais velho
+
+4️⃣3️⃣ Conversão de string para número
+
+Peça ao usuário:
+
+Número digitado como texto
+
+Mostre:
+
+Conversão realizada com sucesso
+
+4️⃣4️⃣ Financiamento 20%
+
+Peça ao usuário:
+
+Valor
+
+Mostre:
+
+Valor final: 1200
+
+4️⃣5️⃣ Sistema de média com 4 notas
+
+Peça ao usuário:
+
+Quatro notas
+
+Mostre:
+
+Média: 8
+Aprovado
+
+4️⃣6️⃣ Simulador de banco
+
+Peça ao usuário:
+
+Saldo inicial
+
+Valor de saque
+
+Mostre:
+
+Saldo restante: 500
+
+4️⃣7️⃣ Conversor de segundos
+
+Peça ao usuário:
+
+Segundos
+
+Mostre:
+
+2 minutos
+
+4️⃣8️⃣ Sistema de login simples
+
+Peça ao usuário:
+
+Usuário
+
+Senha
+
+Mostre:
+
+Acesso permitido
+
+4️⃣9️⃣ Conversão de anos para meses
+
+Peça ao usuário:
+
+Idade em anos
+
+Mostre:
+
+240 meses
+
+5️⃣0️⃣ Sistema final completo
+
+Peça ao usuário:
+
+Nome
+
+3 notas
+
+Mostre:
+
+Aluno: Carlos
+Média: 8
+Situação: Aprovado
