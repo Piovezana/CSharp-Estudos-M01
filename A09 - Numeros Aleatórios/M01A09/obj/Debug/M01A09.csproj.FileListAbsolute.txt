@@ -1,0 +1,7 @@
+C:\Users\victor.piovezana\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\Área de Trabalho\Estudos\CSharp-Estudos-M01\A09 - Numeros Aleatórios\M01A09\bin\Debug\M01A09.exe.config
+C:\Users\victor.piovezana\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\Área de Trabalho\Estudos\CSharp-Estudos-M01\A09 - Numeros Aleatórios\M01A09\bin\Debug\M01A09.exe
+C:\Users\victor.piovezana\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\Área de Trabalho\Estudos\CSharp-Estudos-M01\A09 - Numeros Aleatórios\M01A09\bin\Debug\M01A09.pdb
+C:\Users\victor.piovezana\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\Área de Trabalho\Estudos\CSharp-Estudos-M01\A09 - Numeros Aleatórios\M01A09\obj\Debug\M01A09.csproj.AssemblyReference.cache
+C:\Users\victor.piovezana\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\Área de Trabalho\Estudos\CSharp-Estudos-M01\A09 - Numeros Aleatórios\M01A09\obj\Debug\M01A09.csproj.CoreCompileInputs.cache
+C:\Users\victor.piovezana\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\Área de Trabalho\Estudos\CSharp-Estudos-M01\A09 - Numeros Aleatórios\M01A09\obj\Debug\M01A09.exe
+C:\Users\victor.piovezana\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\Área de Trabalho\Estudos\CSharp-Estudos-M01\A09 - Numeros Aleatórios\M01A09\obj\Debug\M01A09.pdb
