@@ -1,0 +1,7 @@
+C:\Users\victor.piovezana\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\Área de Trabalho\Estudos\CSharp-Estudos-M01\A10 - Data e Hora\DataHora\bin\Debug\DataHora.exe.config
+C:\Users\victor.piovezana\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\Área de Trabalho\Estudos\CSharp-Estudos-M01\A10 - Data e Hora\DataHora\bin\Debug\DataHora.exe
+C:\Users\victor.piovezana\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\Área de Trabalho\Estudos\CSharp-Estudos-M01\A10 - Data e Hora\DataHora\bin\Debug\DataHora.pdb
+C:\Users\victor.piovezana\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\Área de Trabalho\Estudos\CSharp-Estudos-M01\A10 - Data e Hora\DataHora\obj\Debug\DataHora.csproj.AssemblyReference.cache
+C:\Users\victor.piovezana\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\Área de Trabalho\Estudos\CSharp-Estudos-M01\A10 - Data e Hora\DataHora\obj\Debug\DataHora.csproj.CoreCompileInputs.cache
+C:\Users\victor.piovezana\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\Área de Trabalho\Estudos\CSharp-Estudos-M01\A10 - Data e Hora\DataHora\obj\Debug\DataHora.exe
+C:\Users\victor.piovezana\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\Área de Trabalho\Estudos\CSharp-Estudos-M01\A10 - Data e Hora\DataHora\obj\Debug\DataHora.pdb
