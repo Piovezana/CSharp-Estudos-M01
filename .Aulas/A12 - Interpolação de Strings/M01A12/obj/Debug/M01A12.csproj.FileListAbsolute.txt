@@ -1,0 +1,7 @@
+C:\Users\victor.piovezana\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\Área de Trabalho\Estudos\CSharp-Estudos-M01\A12 - Interpolação de Strings\M01A12\bin\Debug\M01A12.exe.config
+C:\Users\victor.piovezana\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\Área de Trabalho\Estudos\CSharp-Estudos-M01\A12 - Interpolação de Strings\M01A12\bin\Debug\M01A12.exe
+C:\Users\victor.piovezana\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\Área de Trabalho\Estudos\CSharp-Estudos-M01\A12 - Interpolação de Strings\M01A12\bin\Debug\M01A12.pdb
+C:\Users\victor.piovezana\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\Área de Trabalho\Estudos\CSharp-Estudos-M01\A12 - Interpolação de Strings\M01A12\obj\Debug\M01A12.csproj.AssemblyReference.cache
+C:\Users\victor.piovezana\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\Área de Trabalho\Estudos\CSharp-Estudos-M01\A12 - Interpolação de Strings\M01A12\obj\Debug\M01A12.csproj.CoreCompileInputs.cache
+C:\Users\victor.piovezana\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\Área de Trabalho\Estudos\CSharp-Estudos-M01\A12 - Interpolação de Strings\M01A12\obj\Debug\M01A12.exe
+C:\Users\victor.piovezana\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\Área de Trabalho\Estudos\CSharp-Estudos-M01\A12 - Interpolação de Strings\M01A12\obj\Debug\M01A12.pdb

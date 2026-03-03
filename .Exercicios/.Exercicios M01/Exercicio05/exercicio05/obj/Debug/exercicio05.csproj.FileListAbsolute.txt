@@ -1,0 +1,7 @@
+D:\Estudos C#\CSharp-Estudos-M01\.Exercicios\.Exercicios M01\Exercicio05\exercicio05\bin\Debug\exercicio05.exe.config
+D:\Estudos C#\CSharp-Estudos-M01\.Exercicios\.Exercicios M01\Exercicio05\exercicio05\bin\Debug\exercicio05.exe
+D:\Estudos C#\CSharp-Estudos-M01\.Exercicios\.Exercicios M01\Exercicio05\exercicio05\bin\Debug\exercicio05.pdb
+D:\Estudos C#\CSharp-Estudos-M01\.Exercicios\.Exercicios M01\Exercicio05\exercicio05\obj\Debug\exercicio05.csproj.AssemblyReference.cache
+D:\Estudos C#\CSharp-Estudos-M01\.Exercicios\.Exercicios M01\Exercicio05\exercicio05\obj\Debug\exercicio05.csproj.CoreCompileInputs.cache
+D:\Estudos C#\CSharp-Estudos-M01\.Exercicios\.Exercicios M01\Exercicio05\exercicio05\obj\Debug\exercicio05.exe
+D:\Estudos C#\CSharp-Estudos-M01\.Exercicios\.Exercicios M01\Exercicio05\exercicio05\obj\Debug\exercicio05.pdb

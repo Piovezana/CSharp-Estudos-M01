@@ -1,0 +1,7 @@
+C:\Users\victor.piovezana\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\Área de Trabalho\Estudos\CSharp-Estudos-M01\A11 - Termporizador de eventos\Temporizador\bin\Debug\Temporizador.exe.config
+C:\Users\victor.piovezana\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\Área de Trabalho\Estudos\CSharp-Estudos-M01\A11 - Termporizador de eventos\Temporizador\bin\Debug\Temporizador.exe
+C:\Users\victor.piovezana\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\Área de Trabalho\Estudos\CSharp-Estudos-M01\A11 - Termporizador de eventos\Temporizador\bin\Debug\Temporizador.pdb
+C:\Users\victor.piovezana\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\Área de Trabalho\Estudos\CSharp-Estudos-M01\A11 - Termporizador de eventos\Temporizador\obj\Debug\M01A11.csproj.AssemblyReference.cache
+C:\Users\victor.piovezana\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\Área de Trabalho\Estudos\CSharp-Estudos-M01\A11 - Termporizador de eventos\Temporizador\obj\Debug\M01A11.csproj.CoreCompileInputs.cache
+C:\Users\victor.piovezana\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\Área de Trabalho\Estudos\CSharp-Estudos-M01\A11 - Termporizador de eventos\Temporizador\obj\Debug\Temporizador.exe
+C:\Users\victor.piovezana\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\Área de Trabalho\Estudos\CSharp-Estudos-M01\A11 - Termporizador de eventos\Temporizador\obj\Debug\Temporizador.pdb

@@ -1,13 +1,19 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\victor.piovezana\\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\\\u00C1rea de Trabalho\\Estudos\\CSharp-Estudos-M01\\A08 - Entrada de Dados\\M01A08\\",
+  "WorkspaceRootPath": "D:\\Estudos C#\\CSharp-Estudos-M01\\.Aulas\\A08 - Entrada de Dados\\M01A08\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{269CD8A0-64A1-438F-A3A4-4A3261072E2F}|..\\M01A08b\\M01A08b.csproj|c:\\users\\victor.piovezana\\onedrive - duk comercio e servicos de informatica ltda. me\\\u00E1rea de trabalho\\estudos\\csharp-estudos-m01\\a08 - entrada de dados\\m01a08b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65CFDE15-A3CA-44C2-A9F3-CEC40C059EE3}|..\\M01A08c\\M01A08c.csproj|d:\\estudos c#\\csharp-estudos-m01\\.aulas\\a08 - entrada de dados\\m01a08c\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85DC599C-AFA6-45FB-9465-4599AC2DE5E3}|M01A08.csproj|c:\\users\\victor.piovezana\\onedrive - duk comercio e servicos de informatica ltda. me\\\u00E1rea de trabalho\\estudos\\csharp-estudos-m01\\a08 - entrada de dados\\m01a08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{269CD8A0-64A1-438F-A3A4-4A3261072E2F}|..\\M01A08b\\M01A08b.csproj|d:\\estudos c#\\csharp-estudos-m01\\.aulas\\a08 - entrada de dados\\m01a08b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85DC599C-AFA6-45FB-9465-4599AC2DE5E3}|M01A08.csproj|D:\\Estudos C#\\CSharp-Estudos-M01\\.Aulas\\A08 - Entrada de Dados\\M01A08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85DC599C-AFA6-45FB-9465-4599AC2DE5E3}|M01A08.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\victor.piovezana\\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\\\u00C1rea de Trabalho\\Estudos\\CSharp-Estudos-M01\\A08 - Entrada de Dados\\M01A08b\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,22 +33,44 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\victor.piovezana\\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\\\u00C1rea de Trabalho\\Estudos\\CSharp-Estudos-M01\\A08 - Entrada de Dados\\M01A08b\\Program.cs",
-              "RelativeDocumentMoniker": "..\\M01A08b\\Program.cs",
-              "ToolTip": "C:\\Users\\victor.piovezana\\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\\\u00C1rea de Trabalho\\Estudos\\CSharp-Estudos-M01\\A08 - Entrada de Dados\\M01A08b\\Program.cs",
-              "RelativeToolTip": "..\\M01A08b\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABMAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Estudos C#\\CSharp-Estudos-M01\\.Aulas\\A08 - Entrada de Dados\\M01A08c\\Program.cs",
+              "RelativeDocumentMoniker": "..\\M01A08c\\Program.cs",
+              "ToolTip": "D:\\Estudos C#\\CSharp-Estudos-M01\\.Aulas\\A08 - Entrada de Dados\\M01A08c\\Program.cs",
+              "RelativeToolTip": "..\\M01A08c\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T19:36:54.057Z",
+              "WhenOpened": "2026-02-16T16:20:36.658Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\victor.piovezana\\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\\\u00C1rea de Trabalho\\Estudos\\CSharp-Estudos-M01\\A08 - Entrada de Dados\\M01A08\\Program.cs",
+              "DocumentMoniker": "D:\\Estudos C#\\CSharp-Estudos-M01\\.Aulas\\A08 - Entrada de Dados\\M01A08b\\Program.cs",
+              "RelativeDocumentMoniker": "..\\M01A08b\\Program.cs",
+              "ToolTip": "D:\\Estudos C#\\CSharp-Estudos-M01\\.Aulas\\A08 - Entrada de Dados\\M01A08b\\Program.cs",
+              "RelativeToolTip": "..\\M01A08b\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T15:54:53.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victor.piovezana\\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\\\u00C1rea de Trabalho\\Estudos\\CSharp-Estudos-M01\\A08 - Entrada de Dados\\M01A08b\\Program.cs",
+              "ToolTip": "C:\\Users\\victor.piovezana\\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\\\u00C1rea de Trabalho\\Estudos\\CSharp-Estudos-M01\\A08 - Entrada de Dados\\M01A08b\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T19:36:54.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Estudos C#\\CSharp-Estudos-M01\\.Aulas\\A08 - Entrada de Dados\\M01A08\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\victor.piovezana\\OneDrive - Duk Comercio e Servicos de Informatica Ltda. ME\\\u00C1rea de Trabalho\\Estudos\\CSharp-Estudos-M01\\A08 - Entrada de Dados\\M01A08\\Program.cs",
+              "ToolTip": "D:\\Estudos C#\\CSharp-Estudos-M01\\.Aulas\\A08 - Entrada de Dados\\M01A08\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

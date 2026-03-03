@@ -1,4 +1,5 @@
 <Solution>
-  <Project Path="../M01A08b/M01A08b.csproj" />
-  <Project Path="M01A08.csproj" />
+  <Project Path="../M01A08b/M01A08b.csproj" Id="269cd8a0-64a1-438f-a3a4-4a3261072e2f" />
+  <Project Path="../M01A08c/M01A08c.csproj" Id="65cfde15-a3ca-44c2-a9f3-cec40c059ee3" />
+  <Project Path="M01A08.csproj" Id="85dc599c-afa6-45fb-9465-4599ac2de5e3" />
 </Solution>

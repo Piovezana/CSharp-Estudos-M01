@@ -1,0 +1,7 @@
+D:\Estudos C#\CSharp-Estudos-M01\.Aulas\A08 - Entrada de Dados\M01A08c\bin\Debug\M01A08c.exe.config
+D:\Estudos C#\CSharp-Estudos-M01\.Aulas\A08 - Entrada de Dados\M01A08c\bin\Debug\M01A08c.exe
+D:\Estudos C#\CSharp-Estudos-M01\.Aulas\A08 - Entrada de Dados\M01A08c\bin\Debug\M01A08c.pdb
+D:\Estudos C#\CSharp-Estudos-M01\.Aulas\A08 - Entrada de Dados\M01A08c\obj\Debug\M01A08c.csproj.AssemblyReference.cache
+D:\Estudos C#\CSharp-Estudos-M01\.Aulas\A08 - Entrada de Dados\M01A08c\obj\Debug\M01A08c.csproj.CoreCompileInputs.cache
+D:\Estudos C#\CSharp-Estudos-M01\.Aulas\A08 - Entrada de Dados\M01A08c\obj\Debug\M01A08c.exe
+D:\Estudos C#\CSharp-Estudos-M01\.Aulas\A08 - Entrada de Dados\M01A08c\obj\Debug\M01A08c.pdb
