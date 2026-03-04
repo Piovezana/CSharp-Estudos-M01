@@ -1,0 +1,7 @@
+D:\Estudos C#\CSharp-Estudos-M01\.Exercicios\.Exercicios M01\Exercicio07\Exercicio07\bin\Debug\Exercicio07.exe.config
+D:\Estudos C#\CSharp-Estudos-M01\.Exercicios\.Exercicios M01\Exercicio07\Exercicio07\bin\Debug\Exercicio07.exe
+D:\Estudos C#\CSharp-Estudos-M01\.Exercicios\.Exercicios M01\Exercicio07\Exercicio07\bin\Debug\Exercicio07.pdb
+D:\Estudos C#\CSharp-Estudos-M01\.Exercicios\.Exercicios M01\Exercicio07\Exercicio07\obj\Debug\Exercicio07.csproj.AssemblyReference.cache
+D:\Estudos C#\CSharp-Estudos-M01\.Exercicios\.Exercicios M01\Exercicio07\Exercicio07\obj\Debug\Exercicio07.csproj.CoreCompileInputs.cache
+D:\Estudos C#\CSharp-Estudos-M01\.Exercicios\.Exercicios M01\Exercicio07\Exercicio07\obj\Debug\Exercicio07.exe
+D:\Estudos C#\CSharp-Estudos-M01\.Exercicios\.Exercicios M01\Exercicio07\Exercicio07\obj\Debug\Exercicio07.pdb
